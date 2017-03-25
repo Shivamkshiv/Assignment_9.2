@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Preferences 2</string>
+    <string name="information">Information</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter Your age</string>
+    <string name="enter_your_phone_no">Enter Your Phone No</string>
+    <string name="enter_your_city">Enter Your City</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+</resources>
